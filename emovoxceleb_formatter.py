@@ -141,7 +141,7 @@ class EmoVoxCelebDatasetFormatter:
         plt.scatter(x, std_devs, color='red')
         plt.xlabel('Utterance')
         plt.ylabel('Utterance Statistics')
-        plt.savefig('best_class_using_max.png')
+        plt.savefig('best_emotion_using_max.png')
 
 
 if __name__ == '__main__':

@@ -13,9 +13,16 @@ Analysis of the EmoVoxCeleb dataset labels
 
 ### Files
 
+##### Directory - emotion_statistics
 * **emotion_** files are the distribution of standard deviations across utterances for each emotion
+
+##### Directory - best_emotion_statistics
+
 * **best_emotion_using_means** is the distribution of standard deviations across utterances for the emotion with the highest mean value for that utterance
 * **best_emotion_using_max** is the distribution of standard deviations across utterances for the emotion with the highest max value for that utterance
+
+##### Directory - utterance_statistics
+
 * **means** is the distribution of standard deviations of means across emotions for each utterance
 * **maxs** is the distribution of standard deviations of maximum values across emotions for each utterance
 * **max_diffs** is the distribution of standard deviations of difference between the two top scoring emotions across utterances
