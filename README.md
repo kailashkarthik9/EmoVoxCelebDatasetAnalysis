@@ -1,3 +1,6 @@
+# Deprecated. See MultiModalEmotionDetection repository
+
+
 # EmoVoxCelebDatasetAnalysis
 Analysis of the EmoVoxCeleb dataset labels
 
